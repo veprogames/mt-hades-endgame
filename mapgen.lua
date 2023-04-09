@@ -1,6 +1,6 @@
 minetest.register_ore({
 	ore_type = "scatter",
-	ore = "hades_core:stone_with_onyx",
+	ore = "hades_endgame:stone_with_onyx",
 	wherein = {"hades_core:stone", "hades_core:basalt", "hades_core:essexite"},
 	clust_scarcity = 35*35*35,
 	clust_num_ores = 2,
@@ -12,7 +12,7 @@ minetest.register_ore({
 
 minetest.register_ore({
 	ore_type = "scatter",
-	ore = "hades_core:stone_with_onyx",
+	ore = "hades_endgame:stone_with_onyx",
 	wherein = {"hades_core:stone", "hades_core:basalt", "hades_core:essexite"},
 	clust_scarcity = 24*24*24,
 	clust_num_ores = 2,
@@ -24,7 +24,7 @@ minetest.register_ore({
 
 minetest.register_ore({
 	ore_type = "scatter",
-	ore = "hades_core:stone_with_onyx",
+	ore = "hades_endgame:stone_with_onyx",
 	wherein = {"hades_core:stone", "hades_core:basalt", "hades_core:essexite"},
 	clust_scarcity = 16*16*16,
 	clust_num_ores = 3,
@@ -184,7 +184,7 @@ minetest.register_ore({
 
 minetest.register_ore({
 	ore_type = "scatter",
-	ore = "hades_core:diamond_block",
+	ore = "hades_core:diamondblock",
 	wherein = {"hades_core:stone", "hades_core:basalt", "hades_core:essexite"},
 	clust_scarcity = 20*20*20,
 	clust_num_ores = 1,
@@ -196,7 +196,7 @@ minetest.register_ore({
 
 minetest.register_ore({
 	ore_type = "scatter",
-	ore = "hades_core:onyx_block",
+	ore = "hades_endgame:onyxblock",
 	wherein = {"hades_core:stone", "hades_core:basalt", "hades_core:essexite"},
 	clust_scarcity = 20*20*20,
 	clust_num_ores = 1,
