@@ -3,3 +3,11 @@ Onyx=
 Onyx Ore=
 Onyx Block=
 Onyx Pickaxe=
+
+Moister=
+Eternal Water Bottle=
+Turns the Stone / Tuff above into their Moss variant, quickly=
+
+Sams best Friend=
+Cheat death. Consumed on use=
+You cheated Death=
