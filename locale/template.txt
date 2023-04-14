@@ -14,3 +14,6 @@ Turns the Stone / Tuff above into their Moss variant, quickly=
 Sams best Friend=
 Cheat death. Consumed on use=
 You cheated Death=
+
+Grassifier=
+Turns nearby dirt blocks into grass blocks=
