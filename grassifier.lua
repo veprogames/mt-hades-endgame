@@ -20,10 +20,8 @@ minetest.register_abm({
             {"hades_core:dirt"})
         if #dirt_positions >= 1 then
             local dirt_pos = dirt_positions[math.random(1, #dirt_positions)]
-            print(dirt_pos)
             local above = {x = dirt_pos.x, y = dirt_pos.y + 1, z = dirt_pos.z}
             local above_node = minetest.get_node(above)
-            print(above_node.name)
             if above_node.name == "air" then
                 minetest.swap_node(dirt_pos, {name = "hades_core:dirt_with_grass"})
             end
