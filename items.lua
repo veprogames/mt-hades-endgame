@@ -5,6 +5,11 @@ minetest.register_craftitem("hades_endgame:onyx", {
 	inventory_image = "hades_endgame_onyx.png",
 })
 
+minetest.register_craftitem("hades_endgame:emerald_rod", {
+	description = S("Emerald Rod"),
+	inventory_image = "hades_endgame_emerald_rod.png",
+})
+
 minetest.register_craft({
     type = "shapeless",
 	output = "hades_endgame:onyx",
@@ -29,4 +34,9 @@ minetest.register_craft({
 minetest.register_craft({
 	output = "hades_endgame:onyx 9",
 	recipe = {{"hades_endgame:onyxblock"}}
+})
+
+minetest.register_craft({
+	output = "hades_endgame:emerald_rod 8",
+	recipe = {{"hades_core:emerald_block"}, {"hades_core:emerald_block"}}
 })

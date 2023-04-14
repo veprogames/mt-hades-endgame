@@ -3,6 +3,9 @@ Onyx=
 Onyx Ore=
 Onyx Block=
 Onyx Pickaxe=
+Void Pickaxe=
+
+Emerald Rod=
 
 Moister=
 Eternal Water Bottle=
