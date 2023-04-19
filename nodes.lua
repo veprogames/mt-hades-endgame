@@ -2,7 +2,7 @@ local S = minetest.get_translator("hades_endgame")
 
 minetest.register_node("hades_endgame:stone_with_onyx", {
 	description = S("Onyx Ore"),
-	tiles = {"default_stone.png^hades_endgame_onyx.png"},
+	tiles = {"default_stone.png^hades_endgame_mineral_onyx.png"},
 	is_ground_content = true,
 	groups = {cracky=1, porous=1, ore=1},
 	drop = "hades_endgame:onyx",
