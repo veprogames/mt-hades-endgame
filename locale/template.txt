@@ -17,3 +17,6 @@ You cheated Death=
 
 Grassifier=
 Turns nearby dirt blocks into grass blocks=
+
+Staff of Venus=
+Turns Volanic Ash into Dirt (3D)=
