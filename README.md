@@ -11,5 +11,6 @@ Adds lategame stuff to [Hades Revisited](https://codeberg.org/Wuzzy/Hades_Revisi
 * Moister for making efficient Moss farms
 * Revival Item to supress death
 * Grassifier to get grassy landscapes more easily
+* Staff of Venus: Staff of Gaia, but 3D. Useful for terraforming
 
 Assets used are derivatives of assets from [Hades Revisited](https://codeberg.org/Wuzzy/Hades_Revisited) (CC BY-SA 3.0), see [LICENSE_MEDIA](./LICENSE_MEDIA)
