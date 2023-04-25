@@ -16,6 +16,8 @@ Cheat death. Consumed on use=
 You cheated Death=
 
 Grassifier=
+Grassifier Lv. 2=
+Grassifier Lv. 3=
 Turns nearby dirt blocks into grass blocks=
 
 Staff of Venus=
