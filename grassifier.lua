@@ -4,7 +4,8 @@ local function grassify(pos, range, count)
     local dirt_positions = minetest.find_nodes_in_area_under_air(
         {x = pos.x - range, y = pos.y - range, z = pos.z - range},
         {x = pos.x + range, y = pos.y + range, z = pos.z + range},
-        {"hades_core:dirt"})
+        {"hades_core:dirt", "hades_core:dirt_with_grass_l1",
+		"hades_core:dirt_with_grass_l2" , "hades_core:dirt_with_grass_l3"})
     local available = math.min(#dirt_positions, count)
     while available > 0 do
         local idx = math.random(1, #dirt_positions)
