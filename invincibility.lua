@@ -14,7 +14,7 @@ minetest.register_craft({
     recipe = {
         {"hades_core:sapphire", "hades_core:goldblock", "hades_core:sapphire"},
         {"hades_core:goldblock", "hades_endgame:onyxblock", "hades_core:goldblock"},
-        {"hades_core:goldblock", "hades_core:goldblock", "hades_core:goldblock"}
+        {"hades_endgame:onyxblock", "hades_endgame:onyxblock", "hades_endgame:onyxblock"}
     }
 })
 
